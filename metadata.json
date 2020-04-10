@@ -1,0 +1,32 @@
+{
+    "questions": [
+        {
+            "path": "./codes/code1/",
+            "module": "Data Structures and Algorithms",
+            "lecture": "Patterns",
+            "question": "Pattern 8",
+            "url": "https://www.pepcoding.com/resources/the-placement-program/patterns/design-pattern-8-official/ojquestion"
+        },
+        {
+            "path": "./codes/code2",
+            "module": "Data Structures and Algorithms",
+            "lecture": "Recursion",
+            "question": "Print Kpc",
+            "url": "https://www.pepcoding.com/resources/the-placement-program/recursion/print-kpc-official/ojquestion"
+        },
+        {
+            "path": "./codes/code3",
+            "module": "Data Structures and Algorithms",
+            "lecture": "Dynamic Programming and Greedy",
+            "question": "Count Binary Strings",
+            "url": "https://www.pepcoding.com/resources/the-placement-program/dynamic-programming-and-greedy/count-binary-strings-official/ojquestion"
+        },
+        {
+            "path": "./codes/code4",
+            "module": "Data Structures and Algorithms",
+            "lecture": "2d Arrays",
+            "question": "Diagonal Traversal",
+            "url": "https://www.pepcoding.com/resources/the-placement-program/2d-arrays/diagonal-traversal-official/ojquestion"
+        }
+    ]
+}
